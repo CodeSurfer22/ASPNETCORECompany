@@ -1,0 +1,12 @@
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\bin\Debug\netcoreapp2.0\ASPNETCORECompany.deps.json
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\bin\Debug\netcoreapp2.0\ASPNETCORECompany.runtimeconfig.json
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\bin\Debug\netcoreapp2.0\ASPNETCORECompany.runtimeconfig.dev.json
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\bin\Debug\netcoreapp2.0\ASPNETCORECompany.dll
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\bin\Debug\netcoreapp2.0\ASPNETCORECompany.pdb
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\obj\Debug\netcoreapp2.0\ASPNETCORECompany.csprojResolveAssemblyReference.cache
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\obj\Debug\netcoreapp2.0\ASPNETCORECompany.csproj.CoreCompileInputs.cache
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\obj\Debug\netcoreapp2.0\ASPNETCORECompany.AssemblyInfoInputs.cache
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\obj\Debug\netcoreapp2.0\ASPNETCORECompany.AssemblyInfo.cs
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\obj\Debug\netcoreapp2.0\ASPNETCORECompany.dll
+C:\Users\Werner\source\repos\ASPNETCORECompany\ASPNETCORECompany\obj\Debug\netcoreapp2.0\ASPNETCORECompany.pdb
